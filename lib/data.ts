@@ -1,5 +1,5 @@
 import { IProject } from '@/types';
-import { Icon, icons } from 'lucide-react';
+// import { Icon, icons } from 'lucide-react';
 
 export const GENERAL_INFO = {
     email: 'mbakweangela96@gmail.com',
